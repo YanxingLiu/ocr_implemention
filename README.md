@@ -11,7 +11,6 @@ images 保存测试的图片
 
 1.  安装opencv-python (最好重新编译源码开启gpu加速)
 2.  安装numpy
-3.  
 
 #### 使用说明
 
